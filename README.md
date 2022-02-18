@@ -4,6 +4,10 @@
 - 🧠 Machine Learning Engineer
 - 👨‍💻 Deep Learning Engineer
 
+## Repo
+- Notion : [Junghwan's Notion page](https://jhbale11.notion.site/Hwan-e5f9b9deb2c74c65818d2b956f2be6df)
+- Blog : [Hwangong Velog](https://velog.io/@jhbale11)
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -25,7 +29,6 @@ class Me:
 	self.country = "South Korea"
 	self.city = "Seoul"
 				
-
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting. \n I'll be happy to connect with you on Social Media!")
 
