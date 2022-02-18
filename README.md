@@ -58,7 +58,6 @@ me.say_hi()
     <a href="https://pytorch.org/"><img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-Pytorch-red"></a>
     <a href="https://www.tensorflow.org/"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
     <a href="https://keras.io/"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=Keras&logoColor=white"></a>
-  
     <a href="https://plotly.com/"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-3c4c74.svg?logo=plotly&logoColor=white"></a>
     <a href="https://plotly.com/dash/"><img alt="Dash" src="https://img.shields.io/badge/Dash-9ca4bc.svg?logo=dash&logoColor=white"></a>
     <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
