@@ -28,6 +28,7 @@ class Me:
         self.language_spoken = ["Kor", "en_US"]
 	self.country = "South Korea"
 	self.city = "Seoul"
+	self.domain = ["Time Series Data", "Transformer"]
 				
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting. \n I'll be happy to connect with you on Social Media!")
