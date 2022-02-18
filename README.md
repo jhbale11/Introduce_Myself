@@ -35,7 +35,6 @@ class Me:
 me = Me()
 me.say_hi()
 ```
-<br>
 
 
 ## 🛠️ My favorite tools
