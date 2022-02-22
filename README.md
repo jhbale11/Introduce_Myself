@@ -1,6 +1,7 @@
 # Kim Jung Hwan
 ## @jhbale11
 - 📊 Data Scientist
+- 🧑‍💼 Data Analyst
 - 🧠 Machine Learning Engineer
 - 👨‍💻 Deep Learning Engineer
 
@@ -76,7 +77,7 @@ me.say_hi()
    <a href="https://jupyter.org/"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-4db3f3.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="https://colab.research.google.com/?utm_source=scs-index"><img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-black.svg?logo=google%20colab&logoColor=ffd936"></a>
-    
+    <a href="https://www.tableau.com/"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-Tableau-white"></a>
 </p>
 
 
