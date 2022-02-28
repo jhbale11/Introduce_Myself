@@ -19,17 +19,18 @@ class Me:
     """
     def __init__(self):
         self.name = "Jung Hwan Kim"
-        self.eng_name = 'Hwan Kim"
+        self.eng_name = 'Hwan"
         self.pronouns = "he/him"
 	self.role1 = "Data Scientist"
 	self.role2 = "Machine Learning Engineer"
-  self.role3 = "Deep Learning Engineer"
-	self.bsc_studies = ("Electrical and Computer Engineering", "Information Science and Culture","Seoul National University, SNU")
+  	self.role3 = "Deep Learning Engineer"
+	self.univ = "Seoul National University, SNU"
+	self.bsc_studies = ("Electrical and Computer Engineering", "Information Science and Culture")
 	self.msc_studies = ()
-        self.language_spoken = ["Kor", "en_US"]
+        self.language_spoken = ["Kor", "en_US", "CN"]
 	self.country = "South Korea"
 	self.city = "Seoul"
-	self.domain = ["Time Series Data", "Transformer"]
+	self.domain = ["Time Series Data", "Tabular Data"]
 				
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting. \n I'll be happy to connect with you on Social Media!")
