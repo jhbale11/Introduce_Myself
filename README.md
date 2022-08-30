@@ -26,7 +26,7 @@ class Me:
   	self.role3 = "Deep Learning Engineer"
 	self.univ = "Seoul National University, SNU"
 	self.bsc_studies = ("Electrical and Computer Engineering", "Information Science and Culture")
-	self.msc_studies = ()
+	self.msc_studies = ("Time Series Data", "ML/DL", "XAI(Explainable AI)", "Adaptive Learning")
         self.language_spoken = ["Kor", "en_US", "CN"]
 	self.country = "South Korea"
 	self.city = "Seoul"
