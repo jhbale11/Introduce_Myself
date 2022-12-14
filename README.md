@@ -26,11 +26,11 @@ class Me:
   	self.role3 = "Deep Learning Engineer"
 	self.univ = "Seoul National University, SNU"
 	self.bsc_studies = ("Electrical and Computer Engineering", "Information Science and Culture")
-	self.msc_studies = ("Time Series Data", "ML/DL", "XAI(Explainable AI)", "Adaptive Learning")
+	self.msc_studies = ("Time Series Data", "Causal Inference", "XAI(Explainable AI)")
         self.language_spoken = ["Kor", "en_US", "CN"]
 	self.country = "South Korea"
 	self.city = "Seoul"
-	self.domain = ["Time Series Data", "Tabular Data"]
+	self.domain = ["Time Series Data", "Tabular Data", "NLP"]
 				
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting. \n I'll be happy to connect with you on Social Media!")
