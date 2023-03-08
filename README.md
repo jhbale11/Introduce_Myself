@@ -1,9 +1,11 @@
 # Kim Jung Hwan
+![]()
 ## @jhbale11
 - 📊 Data Scientist
 - 🧑‍💼 Data Analyst
 - 🧠 Machine Learning Engineer
 - 👨‍💻 Deep Learning Engineer
+(모두 가능합니다!)
 
 ## Repo
 - Notion : [Junghwan's Notion page](https://jhbale11.notion.site/Hwan-e5f9b9deb2c74c65818d2b956f2be6df)
@@ -26,7 +28,7 @@ class Me:
   	self.role3 = "Deep Learning Engineer"
 	self.univ = "Seoul National University, SNU"
 	self.bsc_studies = ("Electrical and Computer Engineering", "Information Science and Culture")
-	self.msc_studies = ("Time Series Data", "Causal Inference", "XAI(Explainable AI)")
+	self.msc_studies = ("Time Series Data", "Causal AI", "XAI(Explainable AI)")
         self.language_spoken = ["Kor", "en_US", "CN"]
 	self.country = "South Korea"
 	self.city = "Seoul"
