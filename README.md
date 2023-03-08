@@ -5,7 +5,17 @@
 - 🧑‍💼 Data Analyst
 - 🧠 Machine Learning Engineer
 - 👨‍💻 Deep Learning Engineer
+
 (모두 가능합니다!)
+
+## Qualification
+- Electrical and Computer Science Major : SNU
+- Statistical Analysis and Methodology
+- Fluent Python, SQL, ML/DL Modeling
+- Intermediate Tableau Dashboard Skills : [Vizable](https://public.tableau.com/app/profile/vizable/viz/Vizable_16606065357730/HOME)
+- Big Data Analysis Engineer(빅데이터 분석기사)
+- SQL Developer(SQLD)
+- ADsP
 
 ## Repo
 - Notion : [Junghwan's Notion page](https://jhbale11.notion.site/Hwan-e5f9b9deb2c74c65818d2b956f2be6df)
