@@ -1,8 +1,6 @@
 # Kim Jung Hwan
 ![](https://github.com/jhbale11/jhbale11/blob/0c10c8854c87dcb6e262ab317c237e9e418213c9/jhbale11.png)
 
-![](https://github.com/jhbale11/jhbale11/blob/f33a447b9d0520941edf58273be711daf9e75966/jhbale12.png)
-
 ## @jhbale11
 - 📊 Data Scientist
 - 🧑‍💼 Data Analyst
