@@ -3,7 +3,7 @@
 
 ## @jhbale11
 - 📊 Data Scientist
-- 🧑‍💼 Data Analyst
+- 🧑‍ AI Researcher
 - 🧠 Machine Learning Engineer
 - 👨‍💻 Deep Learning Engineer
 
